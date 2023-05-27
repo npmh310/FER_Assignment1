@@ -1,0 +1,28 @@
+body{
+    background-color: #333333;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card{
+    margin-right: 50px;
+}
+
+
+
+.button-buy button{
+    width: 100%;
+    border-radius: 5px;
+}
+
+button{
+    border: none;
+}
+.card-container{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-link:hover{
+    color: white;
+}
